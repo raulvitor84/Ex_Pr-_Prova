@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1717547521 source:c:\users\rauld\onedrive\documentos\projetos1\exercicios_pds\ex_heranca\exercicio_heranca\main.cpp
+	<iostream>
+	"Funcionario.h"
+	"Funcionario_Regular.h"
+	"Gerente.h"
+	"Estagiario.h"
+
+1717547467 source:c:\users\rauld\onedrive\documentos\projetos1\exercicios_pds\ex_heranca\exercicio_heranca\src\funcionario.cpp
+	"Funcionario.h"
+	<iostream>
+
+1717637213 c:\users\rauld\onedrive\documentos\projetos1\exercicios_pds\ex_heranca\exercicio_heranca\include\funcionario.h
+	<string>
+
+1717547298 source:c:\users\rauld\onedrive\documentos\projetos1\exercicios_pds\ex_heranca\exercicio_heranca\src\estagiario.cpp
+	<iostream>
+	"Estagiario.h"
+
+1717547537 c:\users\rauld\onedrive\documentos\projetos1\exercicios_pds\ex_heranca\exercicio_heranca\include\estagiario.h
+	"Funcionario.h"
+
+1717547380 source:c:\users\rauld\onedrive\documentos\projetos1\exercicios_pds\ex_heranca\exercicio_heranca\src\gerente.cpp
+	<iostream>
+	"Gerente.h"
+	"Funcionario.h"
+
+1717547393 c:\users\rauld\onedrive\documentos\projetos1\exercicios_pds\ex_heranca\exercicio_heranca\include\gerente.h
+	"Funcionario.h"
+
+1717547554 source:c:\users\rauld\onedrive\documentos\projetos1\exercicios_pds\ex_heranca\exercicio_heranca\src\funcionario_regular.cpp
+	<iostream>
+	"Funcionario_Regular.h"
+
+1717547435 c:\users\rauld\onedrive\documentos\projetos1\exercicios_pds\ex_heranca\exercicio_heranca\include\funcionario_regular.h
+	"Funcionario.h"
+
